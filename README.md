@@ -18,7 +18,7 @@ Projeto desenvolvido na primeira turma do curso de Frontend II da Programaria.
 <br>
 
 <p align="center">
-  <img alt="Página Dicionário de Mulheres Negras" src="fotos/preview.jpg" width="100%">
+  <img alt="Página Dicionário de Mulheres Negras" src="Fotos/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
