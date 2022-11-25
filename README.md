@@ -23,7 +23,7 @@ Projeto desenvolvido na primeira turma do curso de Frontend II da Programaria.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as tecnologias:
 
 - HTML e CSS
 - JavaScript
